@@ -18,32 +18,24 @@
   https://rokuhati68.github.io/Cat-Puzzle-Game/
 
 - **unityroom にも公開しています**  
-  ★ URL を入れてください（例：`https://unityroom.com/games/<your_game_id>`）
+  ネコを寝かせよう！（https://unityroom.com/games/cat_puzzle）
 
 ---
 
 ## ゲーム概要
 
 起きている猫をクリック/タップして、**全員を寝かせたらクリア**。  
-ただし、寝た猫に触れると別の猫が起きてしまうことも。手順を考えて解こう！
+ただし、猫を寝かせると寝てる猫が起きてしまうことも。手順を考えて解こう！
 
 ---
 
 ## 操作方法
 
 ### マウス / タッチ
-- **左クリック / タップ**：猫を切り替え（起きる⇔寝る）
-- **右上の ↺**：リトライ
 
-### キーボード（PC）
-- **R**：リトライ
-- **Esc**：メニュー
 
 ---
 
-## スクリーンショット
-> `docs/screenshot.png` を用意して差し替え
-![screenshot](docs/screenshot.png)
 
 ---
 
@@ -70,9 +62,7 @@
   https://github.com/rokuhati68
 
 - **素材**：  
-  ★ フォント名 / 配布元URL / ライセンス  
-  ★ 効果音・BGM / 配布元URL / ライセンス  
-  ★ 使用アセット名 / 配布元URL
+  ★ おおきめ猫柄の背景(10種) / https://sozaino.site/archives/7165#google_vignette
 
-- **テストプレイ・ご協力**：★ お名前 / URL
+
 
